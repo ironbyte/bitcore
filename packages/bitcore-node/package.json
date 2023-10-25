@@ -107,7 +107,7 @@
     "crypto-wallet-core": "^8.25.30",
     "heapdump": "0.3.15",
     "http": "0.0.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "mongodb": "3.1.1",
     "request": "2.88.0",
     "ripple-lib": "1.4.2",
